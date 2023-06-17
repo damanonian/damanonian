@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @damanonian
+- 👀 I’m interested in investing
+- 🌱 I’m currently learning data analysis
